@@ -1,0 +1,13 @@
+# Web Automation & Logic Manipulation
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+
+# AI Fuzzing & Prompt Testing Tools (Relaxed for native environment matching)
+garak>=0.9.0
+pyrit>=0.14.0
+
+# Math, Tensor Manipulation & Adversarial Training
+numpy>=1.24.0
+torch>=2.2.0
+torchvision>=0.17.0
+scikit-learn>=1.4.0

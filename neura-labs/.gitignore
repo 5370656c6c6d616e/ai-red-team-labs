@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+.env
+
+# Python Caches & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local Mock Lab Sandbox
+mock-app/
