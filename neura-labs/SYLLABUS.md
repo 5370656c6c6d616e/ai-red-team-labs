@@ -1,4 +1,4 @@
-# 📅 6-Month Dual Certification Master Syllabus (CWES & COAE)
+# 📅 Dual Certification Offensive AI Syllabus (CWES & COAE)
 
 - [ ] **Month 1: Client & Server Core Exploitation (CWES)**
   - Focus: Advanced Web Recon, Injection Interceptions, XSS, and Base SQLi.
